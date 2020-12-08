@@ -1,4 +1,4 @@
-HKTVmall & Amazon Skincare Product Analysis
+# HKTVmall & Amazon Skincare Product Analysis
 
 The aim of this project is to extract data from E-commerce websites via web scraping and analyse the data to produce actionable insights. The data was collected using Selenium and BeautifulSoup then subsequently processed and analysed using Pandas and Seaborn. We chose HKTVmall as the primary source because it is the largest e-commerce business in Hong Kong, while Amazon is also used as a source of comparison, being the largest player in the global market.
 
